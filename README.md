@@ -11,7 +11,7 @@ See some blog posts (in french):
 - http://lkdjiin.github.io/blog/2015/10/29/fabriquer-un-sablier-a-the-electronique/
 - http://lkdjiin.github.io/blog/2015/12/12/fabriquer-un-sablier-a-the-electronique-2/
 
-Hardware parts and photos to come…
+![Schema](tea_timer_bb.png)
 
 Install
 -------
@@ -27,6 +27,13 @@ Load the program into attiny:
 View all make tasks:
 
     $ make help
+
+Usage
+-----
+
+It's so easy. Push left button to start a 3 minutes countdown (default for
+green tea), or push right button to start a 5 minutes countdown (default for
+black tea).
 
 License
 -------
